@@ -34,7 +34,7 @@ I love working on personal projects to apply my knowledge and explore new concep
 
 <!-- Changing Text Effect -->
 <p id="changing-text"></p>
-<script>
+<!-- <script>
   const changingTextElement = document.getElementById('changing-text');
   const textOptions = ['Passionate Coder', 'Web Enthusiast', 'Tech Lover', 'Learner'];
 
@@ -43,7 +43,7 @@ I love working on personal projects to apply my knowledge and explore new concep
     changingTextElement.textContent = textOptions[index];
     index = (index + 1) % textOptions.length;
   }, 2000); // Change text every 2 seconds
-</script>
+</script> -->
 
 ## 📫 Get in Touch
 
