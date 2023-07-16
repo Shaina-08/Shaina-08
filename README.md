@@ -1,5 +1,7 @@
 #  Hello there! I'm Shaina 🌟
  Welcome to my coding journey! 🚀
+
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8076de&vCenter=true&width=435&lines=Diving+into+code+and+creativity;Feel+free+to+connect; )](https://in.linkedin.com/in/shaina-bhardwaj-84a66a202)
 
 
