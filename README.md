@@ -1,9 +1,7 @@
 # 👋 Hello there! I'm Shaina - Aspiring Web Developer 
 
 Welcome to my coding journey! 🚀
-<marquee behavior="scroll" direction="left" style="background-color: #f0f0f0; padding: 10px;">
-  <strong>⭐️ Exciting News:</strong> Check out my latest project <a href="(https://dashboardbyshaina.netlify.app/)">Awesome React Admin Dashboard</a>!
-</marquee>
+
 
 ## About Me
 
