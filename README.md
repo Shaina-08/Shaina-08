@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Shaina
+# 👋 Hello there! I'm Shaina 🌟
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3651a8&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;Checkout+my+projects; )](https://in.linkedin.com/in/shaina-bhardwaj-84a66a202)
 
 
