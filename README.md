@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm [Your Name] - Aspiring Web Developer :computer:
+# 👋 Hello there! I'm Shaina - Aspiring Web Developer 
 
 Welcome to my coding journey! 🚀
 <marquee behavior="scroll" direction="left" style="background-color: #f0f0f0; padding: 10px;">
@@ -47,6 +47,6 @@ I love working on personal projects to apply my knowledge and explore new concep
 
 ## 📫 Get in Touch
 
-I'm always excited to connect with fellow developers and enthusiasts. Feel free to reach out to me via [email] shainabhard12@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+I'm always excited to connect with fellow developers and enthusiasts. Feel free to reach out to me via [email] shainabhard12@gmail.com 
 
 Let's learn and grow together! Happy coding! 😊
