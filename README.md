@@ -5,8 +5,13 @@
 Welcome to my coding journey! 🚀
 
 👩‍🎓 As a passionate student and aspiring web developer, I'm on a mission to create amazing web experiences that leave a positive impact. 
-
+<div style="animation: bounce 2s infinite;">
+  <p>
+    
 🌱 I'm a dedicated learner, constantly diving into new technologies like HTML, CSS, and JavaScript for front-end magic, and Node.js
+  </p>
+</div>
+
 
 🎯 My ultimate goal is to craft user-friendly, visually appealing, and robust web applications that solve real-world problems. 
 
