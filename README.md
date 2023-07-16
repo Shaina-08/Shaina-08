@@ -16,3 +16,21 @@ Welcome to my coding journey! 🚀
 🎯 My ultimate goal is to craft user-friendly, visually appealing, and robust web applications that solve real-world problems. 
 
 Let's learn and grow together! Happy coding! 😊
+<style>
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+
+  /* Style the bouncing div */
+  div {
+    display: inline-block;
+  }
+</style>
